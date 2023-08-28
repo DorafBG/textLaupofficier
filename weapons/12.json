@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "Seringue infectée",
+		"en": "Contaminated syringe"
+	},
+	"emote": ":syringe:",
+	"rarity": 4,
+	"rawAttack": 6,
+	"frenchMasculine": 0,
+	"frenchPlural": 0
+}

@@ -1,0 +1,12 @@
+{
+	"translations": {
+		"fr": "Chocobrie",
+		"en": "Chocobrie"
+	},
+	"emote": ":chocolate_bar:",
+	"rarity": 5,
+	"power": 5,
+	"nature": 1,
+	"frenchMasculine": 1,
+	"frenchPlural": 1
+}

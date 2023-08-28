@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "Sabre",
+		"en": "Saber"
+	},
+	"emote": ":dagger:",
+	"rarity": 7,
+	"rawAttack": 10,
+	"frenchMasculine": 1,
+	"frenchPlural": 0
+}

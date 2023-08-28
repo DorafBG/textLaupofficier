@@ -1,0 +1,13 @@
+{
+	"translations": {
+		"fr": "Nam Nam",
+		"en": "Nam Nam"
+	},
+	"emote": ":moyai:",
+	"rarity": 4,
+	"rawDefense": 5,
+	"attack": 38,
+	"speed": -10,
+	"frenchMasculine": 0,
+	"frenchPlural": 0
+}

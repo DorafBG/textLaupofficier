@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "Pew Pew",
+		"en": "Pew Pew"
+	},
+	"emote": ":chopsticks:",
+	"rarity": 3,
+	"rawAttack": 10,
+	"frenchMasculine": 1,
+	"frenchPlural": 0
+}

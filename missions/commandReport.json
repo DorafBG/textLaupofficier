@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": {
+			"desc": "Faire la commande {command:report}"
+		},
+		"en": {
+			"desc": "Execute the command {command:report}"
+		}
+	},
+	"campaignOnly": true
+}

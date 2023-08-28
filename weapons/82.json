@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "Griffe de chat enragé",
+		"en": "Rabid cat's claw"
+	},
+	"emote": ":feet:",
+	"rarity": 6,
+	"rawAttack": 1,
+	"frenchMasculine": 0,
+	"frenchPlural": 0
+}

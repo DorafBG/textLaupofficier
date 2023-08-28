@@ -1,0 +1,13 @@
+{
+	"translations": {
+		"fr": "Jurisprudence",
+		"en": "Jurisprudence"
+	},
+	"emote": ":coin:",
+	"rarity": 6,
+	"rawDefense": 6,
+	"attack": 45,
+	"speed": -40,
+	"frenchMasculine": 0,
+	"frenchPlural": 0
+}

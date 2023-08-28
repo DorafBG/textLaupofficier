@@ -1,0 +1,12 @@
+{
+	"translations": {
+		"fr": "Égide puissante",
+		"en": "Powerful aegis"
+	},
+	"emote": ":shield:",
+	"rarity": 5,
+	"rawAttack": 5,
+	"attack": 60,
+	"frenchMasculine": 0,
+	"frenchPlural": 0
+}

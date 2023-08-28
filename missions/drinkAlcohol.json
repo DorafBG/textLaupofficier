@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": {
+			"desc": "Boire une potion contenant de l'alcool"
+		},
+		"en": {
+			"desc": "Drink a potion containing alcohol"
+		}
+	},
+	"campaignOnly": true
+}

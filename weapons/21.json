@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "Pioche abimée",
+		"en": "Damaged pickaxe"
+	},
+	"emote": ":pick:",
+	"rarity": 1,
+	"rawAttack": 4,
+	"frenchMasculine": 0,
+	"frenchPlural": 0
+}

@@ -1,0 +1,12 @@
+{
+	"translations": {
+		"fr": "Jus",
+		"en": "Juice"
+	},
+	"emote": "🍵",
+	"rarity": 4,
+	"power": 60,
+	"nature": 5,
+	"frenchMasculine": 1,
+	"frenchPlural": 0
+}

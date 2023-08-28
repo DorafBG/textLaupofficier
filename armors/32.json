@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "Bouclier royal",
+		"en": "Royal shield"
+	},
+	"emote": ":shield:",
+	"rarity": 5,
+	"rawDefense": 9,
+	"frenchMasculine": 1,
+	"frenchPlural": 0
+}

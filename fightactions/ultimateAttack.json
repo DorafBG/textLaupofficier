@@ -1,0 +1,16 @@
+{
+	"translations": {
+		"fr": {
+			"name": "Attaque ultime",
+			"namePlural": "Attaques ultimes"
+		},
+		"en": {
+			"name": "Ultimate attack",
+			"namePlural": "Ultimate attacks"
+		}
+	},
+	"emote": "☄️",
+	"breath": 0,
+	"missionVariant": 29,
+	"type": "physical"
+}

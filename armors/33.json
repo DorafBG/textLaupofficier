@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "Scutum",
+		"en": "Scutum"
+	},
+	"emote": ":shield:",
+	"rarity": 2,
+	"rawDefense": 6,
+	"frenchMasculine": 1,
+	"frenchPlural": 0
+}

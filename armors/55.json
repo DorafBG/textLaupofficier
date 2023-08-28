@@ -1,0 +1,12 @@
+{
+	"translations": {
+		"fr": "Autodérision",
+		"en": "Self-mockery"
+	},
+	"emote": ":clown:",
+	"rarity": 4,
+	"rawDefense": 10,
+	"attack": -25,
+	"frenchMasculine": 0,
+	"frenchPlural": 0
+}

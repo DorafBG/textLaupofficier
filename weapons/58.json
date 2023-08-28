@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "Gros livre",
+		"en": "Big book"
+	},
+	"emote": ":bookmark:",
+	"rarity": 2,
+	"rawAttack": 8,
+	"frenchMasculine": 1,
+	"frenchPlural": 0
+}

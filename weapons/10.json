@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "Épée en bois",
+		"en": "Wooden sword"
+	},
+	"emote": ":crossed_swords:",
+	"rarity": 2,
+	"rawAttack": 5,
+	"frenchMasculine": 0,
+	"frenchPlural": 0
+}

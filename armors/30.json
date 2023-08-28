@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "Petit bouclier",
+		"en": "Little shield"
+	},
+	"emote": ":shield:",
+	"rarity": 1,
+	"rawDefense": 9,
+	"frenchMasculine": 1,
+	"frenchPlural": 0
+}

@@ -1,0 +1,12 @@
+{
+	"translations": {
+		"fr": "Parapluie de grand-mère",
+		"en": "Umbrella"
+	},
+	"emote": ":closed_umbrella:",
+	"rarity": 2,
+	"rawAttack": 6,
+	"defense": 10,
+	"frenchMasculine": 0,
+	"frenchPlural": 0
+}

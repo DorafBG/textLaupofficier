@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "Couteau Ancien",
+		"en": "Ancient knife"
+	},
+	"emote": ":knife:",
+	"rarity": 2,
+	"rawAttack": 5,
+	"frenchMasculine": 1,
+	"frenchPlural": 0
+}

@@ -1,0 +1,13 @@
+{
+	"translations": {
+		"fr": "Arc du héros",
+		"en": "Heroe bow"
+	},
+	"emote": ":bow_and_arrow:",
+	"rarity": 7,
+	"rawAttack": 8,
+	"defense": -35,
+	"speed": 25,
+	"frenchMasculine": 1,
+	"frenchPlural": 0
+}

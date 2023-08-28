@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "Chaise",
+		"en": "Chair"
+	},
+	"emote": ":chair:",
+	"rarity": 2,
+	"rawAttack": 2,
+	"frenchMasculine": 0,
+	"frenchPlural": 0
+}

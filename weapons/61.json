@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "Seringue sale",
+		"en": "Dirty syringe"
+	},
+	"emote": ":syringe:",
+	"rarity": 5,
+	"rawAttack": 2,
+	"frenchMasculine": 0,
+	"frenchPlural": 0
+}
